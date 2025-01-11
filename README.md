@@ -38,9 +38,9 @@ https://account.network3.ai/main?o=xx.xx.xx.xx:8080
 
 # Add your wallet
 * After the points started adding up, a pop-up windows will show up to connect wallet (log out and login again if it didn't). Connect your wallet:
-* ![image](https://github.com/user-attachments/assets/f68312ab-63cd-4d03-9552-08f9ef847b30)
+![image](https://github.com/user-attachments/assets/f68312ab-63cd-4d03-9552-08f9ef847b30)
 * Now click (+) on add node section:
-* ![image](https://github.com/user-attachments/assets/53177440-7f31-4297-a493-08044103fc38)
+![image](https://github.com/user-attachments/assets/53177440-7f31-4297-a493-08044103fc38)
 * Retrieve the private key of your node and add it to your profile.
 ```
 sudo bash manager.sh key
